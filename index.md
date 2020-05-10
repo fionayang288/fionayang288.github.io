@@ -5,6 +5,7 @@
       <h1>Fiona Yang</h1>
       <p><b>Risk Management, Data Science, Quantitative Research</b></p>
       <p><a href="https://www.kaggle.com/fionayang28">Kaggle Page</a></p>
+      <p><a href="https://fionayang288.github.io/">Github</a></p>
     </td>
     <td width="25%">
       <img src="/photo.PNG" width="100%">
@@ -14,7 +15,7 @@
 </div>
 
 ---
-## Fiona Yang's 2019
+### Fiona Yang's 2019
 * Congratulation to Fiona for graduating from Master degree.
 * Read books about quant interviews.
 * Watched video tutorials about Python, SQL, Github.
@@ -23,7 +24,7 @@
 * Built friendship with master classmates.
 
 ---
-## Fiona Yang's New Year Resolution for 2020
+### Fiona Yang's New Year Resolution for 2020
 * To keep healthy and loss some weight.
 * To do more quant projects.
 * To keep more notes during learning.
