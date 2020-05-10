@@ -1,1 +1,17 @@
+title: Fiona Yang
+author: Fiona Yang
+description: >- # this means to ignore newlines until "baseurl:"
+  Risk Management, Quantitative Research, Data Science
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  fionayang288
+repository: fionayang288/fionayang288.github.io
+# permalink: /posts/:year-:month-:day-:title
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
