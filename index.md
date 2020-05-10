@@ -12,6 +12,7 @@
   </tr>
 </table>
 </div>
+
 ---
 ## Fiona Yang's 2019
 * Congratulation to Fiona for graduating from Master degree.
@@ -20,6 +21,7 @@
 * Passed ice skating adult basic level 1.
 * Got a job in financial industry and finaly can feed myself.
 * Built friendship with master classmates.
+
 ---
 ## Fiona Yang's New Year Resolution for 2020
 * To keep healthy and loss some weight.
@@ -29,4 +31,4 @@
 * To communiate more with experienced people in financial industry and find own interests.
 * To try to write papers~
 * To take more photos and make own videos.
----
+
