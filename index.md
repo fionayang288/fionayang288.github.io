@@ -46,3 +46,8 @@
 * To try to write papers~
 * To take more photos and make own videos.
 
+---
+#### Linux
+* [Windows 10 Linux Subsystem Setup](https://www.youtube.com/watch?v=1ap3hL-UR9I) 
+* [Huahua's Video about how to use Linux commond line 1](https://www.youtube.com/watch?v=LHYG7eEf8wY) [2](https://www.youtube.com/watch?v=bF7c8Owp_3Y&t=908s) [3](https://www.youtube.com/watch?v=TWwvJw6UoxY&t=23s)
+* [The Unix Workbench on Coursera](https://www.coursera.org/learn/unix#syllabus)
