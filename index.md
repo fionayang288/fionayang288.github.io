@@ -1,15 +1,3 @@
-.page-header {
-  color: $header-heading-color;
-  text-align: center;
-  background-color: $header-bg-color;
-  background-image: url(../photo.PNG);
-
-  @include medium {
-    padding: 3rem 4rem;
-  }
-
-}
-
 <div>
 <table border="0">
   <tr>
