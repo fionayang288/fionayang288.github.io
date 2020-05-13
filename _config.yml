@@ -10,7 +10,7 @@ repository: fionayang288/fionayang288.github.io
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-gravity
+theme: jekyll-theme-lanyon
 plugins:
   - jekyll-feed
   - jekyll-sitemap
